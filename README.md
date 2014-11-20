@@ -3,7 +3,7 @@ hello-flow
 
 hello-flow
 
-詳しくはこちら -> [Link](http://qiita.com/phi/private/5e3ce02dc76da7bf2075)
+詳しくはこちら -> [link](http://qiita.com/phi/private/5e3ce02dc76da7bf2075)
 
 
 ### check
